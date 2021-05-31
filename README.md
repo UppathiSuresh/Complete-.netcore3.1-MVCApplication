@@ -11,7 +11,7 @@ Steps to run the application.
 step 1: Clone the project or download as zip file.
 step 2:Extract all the file if you download the solution.
 step 3:Once sucessfully clone the project.Check the framework version 3.1 or not.(double clock on the solution it open ".csproj" there you can see the framework version.)
-step 4:Change the databse name and server as per your requirement in the "app.json" file.
+step 4:Change the databse name and server as per your requirement in the "appsettings.json" file.
 step 5:After changed the databse name and server name run the below 2 commands to generate the migratations.
          --> To run the commands you need to open Package manager console.after that type below commands.
          --> PM>Add Migration Give SutiableName as per your Rrequirement
