@@ -26,5 +26,5 @@ Step 6:After changed the databse name and server name run the below 2 commands t
 Step 7:Run the application you can see the output.
          
  
-#OutPut Screen shot. 
+# Sample OutPut Screen shot. 
 ![image](https://user-images.githubusercontent.com/25552209/122875813-61694500-d352-11eb-8d6a-4b9a5f2743fe.png)
